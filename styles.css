@@ -1,0 +1,79 @@
+.navbar-color{
+    background-color:#A4ED73 ;
+}
+
+.navbar-nav > li{
+    padding-left:10px;
+    padding-right:10px;
+  }
+
+  .form{
+      
+      /* padding-left:12%; */
+      /* padding-right:12% */
+      /* display: inline; */
+      margin-left: 12%;
+
+
+  }
+  
+
+  .form-control{
+      width: 30%;
+  }
+
+  .Sign{
+      padding-left: 12%;
+  }
+
+.card{
+    width: 60%;
+    /* align-content: center; */
+    
+}
+
+.buy-header{
+    margin-bottom: 5%;
+}
+
+.buy-heading{
+    margin-left: 3%;
+}
+
+.row{
+    margin-left: 2%;
+}
+
+.col{
+    padding-left: 7%;
+}
+
+.signInImage{
+        max-width: 35%;
+        padding-right: 12%;
+}
+
+.SignUpImage{
+    max-width: 40%;
+    padding-right: 10%;
+}
+
+.about-heading{
+    text-align: center;
+    margin-top: 5%;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+
+.about-para{
+    padding: 5%;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight:bold;
+    font-size: larger;
+}
+
+.link:hover{
+    color: green;
+    
+}
+
